@@ -1,0 +1,10 @@
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\bin\Debug\AutoTyper 1.0.exe.config
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\bin\Debug\AutoTyper 1.0.exe
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\bin\Debug\AutoTyper 1.0.pdb
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\obj\Debug\AutoTyper 1.0.csproj.AssemblyReference.cache
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\obj\Debug\AutoTyper_1._0.Form1.resources
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\obj\Debug\AutoTyper_1._0.Properties.Resources.resources
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\obj\Debug\AutoTyper 1.0.csproj.GenerateResource.cache
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\obj\Debug\AutoTyper 1.0.csproj.CoreCompileInputs.cache
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\obj\Debug\AutoTyper 1.0.exe
+D:\VisualCode\AutoTyper 1.0\AutoTyper 1.0\obj\Debug\AutoTyper 1.0.pdb
